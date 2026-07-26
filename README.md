@@ -20,7 +20,7 @@ Para probar el proyecto correctamente, es **estrictamente necesario** iniciar pr
 1. Abre una terminal y navega hasta el directorio del proyecto.
 2. Compila el archivo del servidor:
    ```bash
-   javac ServidorAdivinanza.java
+   ServidorAdivinanza.java
 Ejecuta el servidor:
 
 Bash
