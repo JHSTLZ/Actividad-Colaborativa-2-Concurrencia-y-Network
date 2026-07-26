@@ -48,3 +48,5 @@ Los clientes conectados envían sus intentos escribiendo números en la consola.
 El servidor evalúa el intento y notifica (hace un broadcast) a todos los clientes si el intento fue "demasiado alto" o "insuficiente", dando pistas sobre si el número secreto es MAYOR o MENOR.
 
 El primer jugador que logre adivinar el número exacto será declarado ganador, y el servidor cerrará el juego para todos los participantes.
+
+Desarrollado por Joseph Stheven Lopez Rincon Samuel Perez Correa
