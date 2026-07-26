@@ -49,4 +49,6 @@ El servidor evalúa el intento y notifica (hace un broadcast) a todos los client
 
 El primer jugador que logre adivinar el número exacto será declarado ganador, y el servidor cerrará el juego para todos los participantes.
 
+
+
 Desarrollado por Joseph Stheven Lopez Rincon Samuel Perez Correa
